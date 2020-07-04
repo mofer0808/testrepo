@@ -1,0 +1,2 @@
+# testrepo
+testrepo tanuláshoz
